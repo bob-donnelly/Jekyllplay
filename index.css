@@ -1,5 +1,9 @@
+html {
+    font: 100%;
+}
+
 #enter {
-color: blue
+color: blue;
 }
 
 #input {
