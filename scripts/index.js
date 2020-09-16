@@ -11,4 +11,10 @@ function createListElement() {
     li.appendChild(document.createTextNode(input.value));
     ul.appendChild(li);
 
+    li.addEventListener; "click", function () {
+        var finished = this.classList.toggle("done");
+        var removeButton = docoument.createElement("button");
+        var finished = this.classList.add("deletebutton");
+    }
+
 }
