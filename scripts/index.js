@@ -15,6 +15,9 @@ function createListElement() {
         var finished = this.classList.toggle("done");
         var removeButton = docoument.createElement("button");
         var finished = this.classList.add("deletebutton");
+        if (finished) {
+            removeButton; appendChild(document createTextNode("remove"));
+        }
     }
 
 }
