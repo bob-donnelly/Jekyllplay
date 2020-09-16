@@ -1,15 +1,23 @@
 var truck = "Optimus Prime"
 
-console.log(truck)
 
 var lastname = "Autobots"
 
-console.log(lastname)
 
 var age = "2000000000000000000000000000000000"
 
-console.log(age)
+console.log(truck,lastname,age)
 
+let Optimus = 'beat up Megatron';
 
+const ROLL = 'ROLL OUT';
 
+console.log (Optimus,ROLL)
 
+let firstName = "Star"
+let lastName = "burst"
+let fullName = firstName + lastName
+
+console.log(`Hello I ${ROLL} to ${Optimus}`)
+
+console.log(fullName)
