@@ -12,8 +12,10 @@ color: blue;
 
 #first {
     color: red;
+    font-size: rem 1.5;
 }
 
 .second {
     color: blue;
+    font-size: rem 1.5;
 }
