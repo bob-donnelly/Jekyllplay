@@ -8,13 +8,14 @@ ul {
 }
 
 h1, p {
-    text-align: center;
+    text-align: center
 }
 
 #here li {
     width: 10vw;
     padding: 20px;
     border: 1px solid #000000;
+    margin: 0 auto;
 }
 
 button {
