@@ -1,21 +1,53 @@
-html {
-    font-size: 100%;
+body {
+    margin: 0 auto;
+    padding: 10px;
 }
 
-#enter {
-color: blue;
+ul {
+    list-style-type: none;
 }
 
-#input {
-    color: blueviolet;
+h1, p {
+    text-align: center;
 }
 
-#first {
-    color: red;
-    font-size: rem 1.5;
+#here li {
+    width: 10vw;
+    padding: 20px;
+    border: 1px solid #000000;
 }
 
-.second {
-    color: blue;
-    font-size: rem 1.5;
+button {
+    color: #ffffff;
+    background: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+body {
+    background: #f9f9f9;
+    background-size: cover;
+    text-align: center;
+}
+
+input {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 200px;
+
+}
+
+.testingIt {
+    text-decoration-line: line-through;
+}
+
+.deleteButton {
+    background-color: red;
+    color: #ffffff;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.done {
+    text-decoration: line-through #ff3c3c;
 }
